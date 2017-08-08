@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "friendo.api.Tests", "friendo.api.Tests\friendo.api.Tests.csproj", "{C20E3A76-9B8F-4664-99F2-3ADB19D65A7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "friendo.api.Repository", "friendo.api.Repository\friendo.api.Repository.csproj", "{2371006B-36AD-498A-8C94-8001B0CE0923}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "friendo.api.Managers", "friendo.api.Managers\friendo.api.Managers.csproj", "{BCFDB5EE-3572-44BE-B07B-3753B1501988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "friendo.api.ServiceDefinition", "friendo.api.ServiceDefinition\friendo.api.ServiceDefinition.csproj", "{9371EC49-A58A-47C6-9D8A-E5D4FF9E10B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "friendo.api.ServiceDefiniton", "friendo.api.ServiceDefiniton\friendo.api.ServiceDefiniton.csproj", "{F2484779-F447-4CA9-8E81-443535246D91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "friendo.api", "friendo.api\friendo.api.csproj", "{2F7F81A8-E8EE-4F96-BE18-ECB2B32B1AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20E3A76-9B8F-4664-99F2-3ADB19D65A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20E3A76-9B8F-4664-99F2-3ADB19D65A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20E3A76-9B8F-4664-99F2-3ADB19D65A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20E3A76-9B8F-4664-99F2-3ADB19D65A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2371006B-36AD-498A-8C94-8001B0CE0923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2371006B-36AD-498A-8C94-8001B0CE0923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2371006B-36AD-498A-8C94-8001B0CE0923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2371006B-36AD-498A-8C94-8001B0CE0923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFDB5EE-3572-44BE-B07B-3753B1501988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFDB5EE-3572-44BE-B07B-3753B1501988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFDB5EE-3572-44BE-B07B-3753B1501988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFDB5EE-3572-44BE-B07B-3753B1501988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9371EC49-A58A-47C6-9D8A-E5D4FF9E10B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9371EC49-A58A-47C6-9D8A-E5D4FF9E10B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9371EC49-A58A-47C6-9D8A-E5D4FF9E10B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9371EC49-A58A-47C6-9D8A-E5D4FF9E10B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2484779-F447-4CA9-8E81-443535246D91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2484779-F447-4CA9-8E81-443535246D91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2484779-F447-4CA9-8E81-443535246D91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2484779-F447-4CA9-8E81-443535246D91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F7F81A8-E8EE-4F96-BE18-ECB2B32B1AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F7F81A8-E8EE-4F96-BE18-ECB2B32B1AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F7F81A8-E8EE-4F96-BE18-ECB2B32B1AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F7F81A8-E8EE-4F96-BE18-ECB2B32B1AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
